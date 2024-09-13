@@ -1,1 +1,1 @@
-dHJvamFuOi8vdGVsZWdyYW0taWQtcHJpdmF0ZXZwbnNAMzQuMjQ3Ljk4LjY6MjIyMjI/Zmxvdz0mc2VjdXJpdHk9dGxzJnNuaT10cm9qYW4uYnVyZ2VyaXAuY28udWsmdHlwZT10Y3AmaGVhZGVyPW5vbmUmaG9zdD0mcGF0aD0mYWxwbj0mZnA9JnBiaz0mc2lkPSZzcHg9JmFsbG93SW5zZWN1cmU9MSZmcmFnbWVudD0sMTAwLTIwMCwxMC02MCZvcz0j54ix5bCU5YWwK+mDveafj+ael0FtYXpvbuaVsOaNruS4reW/gyA=
+trojan://telegram-id-privatevpns@34.247.98.6:22222?flow=&security=tls&sni=trojan.burgerip.co.uk&type=tcp&header=none&host=&path=&alpn=&fp=&pbk=&sid=&spx=&allowInsecure=1&fragment=,100-200,10-60&os=#爱尔兰+都柏林Amazon数据中心 
